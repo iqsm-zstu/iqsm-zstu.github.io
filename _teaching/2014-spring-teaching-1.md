@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "成员 1"
 collection: teaching
-type: "Undergraduate course"
+type: "测试 course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "物理系, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
