@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+### 联系地址：
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
