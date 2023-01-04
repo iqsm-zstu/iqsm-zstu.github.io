@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "量子物态调控研究所 / 浙江理工大学"
+title                    : "量子物态调控研究所 / 首页"
 title_separator          : "-"
-name                     : &name "量子物态调控研究所"
+name                     : &name "量子物态调控研究所，浙江理工大学"
 description              : &description "量子物态调控研究所"
 url                      : https://mike22lfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
