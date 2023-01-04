@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "联系我们："
+title: "请通过以下信息与我们联系。"
 permalink: /contacts/
 author_profile: true
 redirect_from:
@@ -9,19 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-### 联系地址：
-
+联系地址：
+======
 <address>
   1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
 </address>
-
-Education
-======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+联系电话
 ======
 * Summer 2015: Research Assistant
   * Github University
