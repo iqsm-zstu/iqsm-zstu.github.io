@@ -9,17 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-联系地址：
+##联系地址：
 ======
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  2号大街928号<br /> 杭州市钱塘新区<br /> 浙江省<br /> 邮编：310018
 </address>
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-联系电话
+##联系电话：
 ======
+0571-863468
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
