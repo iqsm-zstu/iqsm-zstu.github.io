@@ -8,6 +8,9 @@ main:
 
   - title: "出版物"
     url: /publications/
+    
+  - title: "项目"
+    url: /fundings/
 
   - title: "Talks项目"
     url: /talks/    
