@@ -21,8 +21,11 @@ main:
   - title: "Portfolio照片"
     url: /portfolio/
          
-  - title: "CV联系我们"
-    url: /cv/
+  - title: "联系我们"
+    url: /contacts/
+  
+  # - title: "CV"
+  #   url: /cv/
     
   - title: "Guide"
     url: /markdown/
