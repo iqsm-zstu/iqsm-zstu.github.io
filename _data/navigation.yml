@@ -1,6 +1,9 @@
 # main links links
 main:
-  - title: "Publications测试"
+  - title: "成员"
+    url: /members/
+
+  - title: "Publications"
     url: /publications/
 
   - title: "Talks"
