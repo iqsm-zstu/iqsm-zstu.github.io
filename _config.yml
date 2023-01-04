@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "量子物态调控研究所 / 浙江理工大学"
 title_separator          : "-"
 name                     : &name "量子物态调控研究所"
-description              : &description "personal description"
+description              : &description "量子物态调控研究所"
 url                      : https://mike22lfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mike22lfc/mike22lfc.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "量子物态调控研究所"
   avatar           : "profile.png"
   bio              : "Institute of Quantum State Regulation"
-  location         : "杭州市，浙江"
+  location         : "杭州市，浙江省"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  members:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -213,6 +216,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _members
+  - scope:
+      path: ""
+      type: members
     values:
       layout: single
       author_profile: true
