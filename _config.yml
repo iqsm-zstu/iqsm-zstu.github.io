@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "量子物态调控研究所 / 首页"
 title_separator          : "-"
-name                     : &name "量子物态调控研究所，浙江理工大学"
+name                     : &name "量子物态调控研究所"
 description              : &description "量子物态调控研究所"
 url                      : https://mike22lfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "量子物态调控研究所"
+  name             : "量子物态调控研究所，浙江理工大学"
   avatar           : "profile.png"
   bio              : "Institute of Quantum State Regulation"
   location         : "杭州市，浙江省"
