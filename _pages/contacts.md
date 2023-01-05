@@ -18,7 +18,8 @@ redirect_from:
 <address>
   2号大街928号<br /> 杭州市钱塘新区<br /> 浙江省<br /> 邮编：310018
 </address>
-<br /> [在线地图](http://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
+
+[在线地图](http://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
 [link](http://github.com "Github")
 
