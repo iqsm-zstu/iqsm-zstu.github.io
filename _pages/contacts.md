@@ -13,6 +13,8 @@ redirect_from:
 
 [在线地图](https://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
+[![点击地图](/images/zstu_map.png "Hello World")*My caption*][https://ditu.amap.com/place/B0FFJVSKAG]
+
 联系地址：
 ======
 
