@@ -1,5 +1,4 @@
 ---
-title: "张云波"
 collection: members
 type: "测试 course"
 permalink: /members/yunbozhang
@@ -8,7 +7,7 @@ location: "浙江省杭州市, Country"
 ---
 
 
-
+张云波
 
 
 
