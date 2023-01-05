@@ -5,8 +5,6 @@ author_profile: true
 id: "news"
 ---
 
-{% include base_path %}
-
 ## News
 <!-- see also index.markdown -->
 <style>
