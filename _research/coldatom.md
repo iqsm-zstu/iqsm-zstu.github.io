@@ -3,8 +3,6 @@ title: "超冷量子气体"
 collection: research
 type: "research"
 permalink: /research/coldatom
-venue: "物理系"
-date: 2014-01-01
 location: "City, Country"
 ---
 
