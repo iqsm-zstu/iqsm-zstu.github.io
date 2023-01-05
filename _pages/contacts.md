@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<img src='/images/zstu_map.png'>
+
 ##联系地址：
 ======
 <address>
   2号大街928号<br /> 杭州市钱塘新区<br /> 浙江省<br /> 邮编：310018
 </address>
-<img src='/images/zstu_map.png'>
 
 ##联系电话：
 ======
