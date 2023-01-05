@@ -3,8 +3,6 @@ layout: archive
 title: "请通过以下信息与我们联系。"
 permalink: /contacts/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
