@@ -1,15 +1,11 @@
 ---
+title: "张云波"
 collection: members
 type: "测试 course"
 permalink: /members/yunbozhang
 venue: "物理系, Department"
 location: "浙江省杭州市, Country"
 ---
-
-
-张云波
-
-
 
 
 <img src='/images/people/yunbozhang.png' width='400' >
