@@ -6,10 +6,13 @@ main:
   - title: "成员"
     url: /members/
 
+  - title: "研究兴趣"
+    url: /research/
+
   - title: "出版物"
     url: /publications/
     
-  - title: "项目"
+  - title: "基金支持"
     url: /fundings/  
          
   - title: "联系我们"
