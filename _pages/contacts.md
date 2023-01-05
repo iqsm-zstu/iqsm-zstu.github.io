@@ -11,8 +11,6 @@ author_profile: true
 
 [在线地图](https://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
-测试
-
 联系地址：
 ======
 
