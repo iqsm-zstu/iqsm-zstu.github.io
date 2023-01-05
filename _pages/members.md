@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: People
-group: "navigation"
+permalink: /members/
+author_profile: true
 id: "people"
 ---
 
