@@ -11,7 +11,6 @@ redirect_from:
 
 <img src='/images/zstu_map.png'>
 
-[link](http://github.com "Github")
 
 ##联系地址：
 ======
@@ -21,9 +20,7 @@ redirect_from:
 
 [在线地图](http://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
-[link](http://github.com "Github")
-
-##联系电话：[link](http://github.com "Github")
+##联系电话：
 ======
 0571-863468
 
