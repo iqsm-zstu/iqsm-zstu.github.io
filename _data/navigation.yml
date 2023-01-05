@@ -11,12 +11,6 @@ main:
     
   - title: "项目"
     url: /fundings/  
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio照片"
-    url: /portfolio/
          
   - title: "联系我们"
     url: /contacts/
@@ -24,6 +18,10 @@ main:
   - title: "Guide"
     url: /markdown/
 
+ # - title: "Teaching"
+ #   url: /teaching/   
+ # - title: "Portfolio照片"
+ #   url: /portfolio/
  # - title: "Talks"
  #   url: /talks/  
  # - title: "CV"
