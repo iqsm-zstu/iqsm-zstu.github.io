@@ -1,0 +1,17 @@
+- name: Yunbo Zhang
+  nickname: Yunbo
+  website: http://www.cs.washington.edu/homes/magda/
+  image: yunbozhang.png
+  dblp: ':author:Yunbo_Zhang:'
+  
+- name: Changsheng Song
+  nickname: Changsheng
+  website: http://www.cs.washington.edu/homes/suciu/
+  image: changshengsong.png
+  dblp: ':author:Changsheng_Song:'
+
+- name: Xiaolong Chen
+  nickname: xiaolong
+  website: https://homes.cs.washington.edu/~leibatt/bio.html
+  image: xiaolongchen.png
+  dblp: ':author:Xiaolong_Chen:'
