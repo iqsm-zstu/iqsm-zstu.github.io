@@ -1,156 +1,36 @@
 ---
 layout: archive
-title: "news新闻"
+title: "最近新闻"
 permalink: /news/
 author_profile: true
 id: "news"
 ---
 
 
-- **2022-11-25:** 
+- **2022-11-25:**_ 
     '[Degree Sequence Bounds for Cardinality Estimation](https://arxiv.org/abs/2201.04166)' by Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai to appear at ICDT 2023; '[SafeBound: A Practical System for Generating Cardinality Bounds](https://arxiv.org/abs/2211.09864)' by Kyle Deeds, Dan Suciu, and Magda Balazinska to appear at SIGMOD 2023.
 
 - **2022-11-15:**
     'Optimizing Tensor Programs on Flexible Storage' by Maximilian Schleich, Amir Shaikhha, and Dan Suciu to appear at SIGMOD 2023.
 
-- date: 2022-11-15
-  description: >
+- **2022-11-15:**
     **Two** additional papers by the group to appear at VLDB 2023: 'Quasi-stable Coloring for Graph Compression' by Moe Kayali and Dan Suciu; 'Computing Rule-Based Explanations by Leveraging Counterfactuals' by Zixuan Geng, Maximilian Schleich, Dan Suciu.
 
-- date: 2022-09-15
-  description: >
+- **2022-09-15:**
     '[Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)' has been accepted at NeurIPS 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/), Cheng-Yu Hsieh, and Alex Ratner!
 
-- date: 2022-09-06
-  description: >
-    '[Share the Tensor Tea: How Databases can Leverage the Machine Learning Ecosystem](https://www.vldb.org/pvldb/vol15/p3598-interlandi.pdf)' received the VLDB 2022 Best Demo Award. Congrats to the authors: Yuki Asada<sup>*</sup>, Victor Fu<sup>*</sup>, Apurva Gandhi<sup>*</sup>, Advitya Gemawat<sup>*</sup>, Lihao Zhang<sup>*</sup>, [Dong He](https://dongheuw.github.io/), Vivek Gupta, Ehi Nosakhare, Dalitso Banda, Rathijit Sen, and Matteo Interlandi!
-
-- date: 2022-08-16
-  description: >
-    '[Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)' has been accepted at VLDB 2023. Congrats Cheng-Yu Hsieh, [Jieyu Zhang](https://jieyuz2.github.io/), and Alex Ratner!
-
-- date: 2022-04-11
-  description: >
-    [Dan Suciu](https://homes.cs.washington.edu/~suciu/) receives the [2022 SIGMOD Edgar F. Codd Innovations Award](https://sigmod.org/dan-suciu-2022-sigmod-edgar-f-codd-innovations-award/) for lasting contributions to the foundations of novel data management trends.
-
-- date: 2022-04-08
-  description: >
+- **2022-04-15:**
     [Leilani Battle](https://homes.cs.washington.edu/~leibatt/) is awarded the 2022 [IEEE TCDE Rising Star Award](http://tab.computer.org/tcde/tcdeawardsrecipients.html) for contributions to interactive data-intensive systems for exploratory data analysis.
 
-- date: 2022-06-30
-  description: >
+- **2022-06-15:**
     '[Query Processing on Tensor Computation Runtimes](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)' has been accepted at VLDB 2022. Congrats to the authors: [Dong He](https://dongheuw.github.io/), Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, and Matteo Interlandi!
 
-- date: 2022-03-24
-  description: >
-    '[Convergence of Datalog over (Pre-) Semirings](https://arxiv.org/abs/2105.14435)' received a PODS 2022 best paper award. Congrats to the authors: Mahmoud Abo Khamis, [Hung Q. Ngo](http://hung-q-ngo.github.io), [Reinhard Pichler](https://www.dbai.tuwien.ac.at/staff/pichler/), [Dan Suciu](https://homes.cs.washington.edu/~suciu/), and [Remy Wang](https://remy.wang)!
-
-- date: 2022-01-20
-  description: >
-    '[Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)' has been accepted at ICLR 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/) and Alex Ratner!
-
-- date: 2021-10-22
-  description: >
-    '[VOCAL: Video Organization and Interactive Compositional AnaLytics (Vision Paper)](https://db.cs.washington.edu/projects/visualworld/vocal-crc.pdf)' has been accepted at CIDR 2022. Congrats [Maureen Daum<sup>*</sup>](https://homes.cs.washington.edu/~mdaum/), [Enhao Zhang<sup>*</sup>](https://zhang-eh.github.io/), [Dong He](https://dongheuw.github.io/), Magdalena Balazinska, Brandon Haynes, Ranjay Krishna, Apryle Craig, Aaron Wirsing!
-    <sup>*</sup>Both authors contributed equally to the paper.
-
-- date: 2021-10-10
-  description: >
-    '[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://openreview.net/forum?id=Q9SKS5k8io)' has been accepted at NeurIPS 2021 Dataset & Benchmark Track. Congrats [Jieyu Zhang](https://jieyuz2.github.io/) and Alex Ratner!
-
-- date: 2021-08-15
-  description: >
-    '[DeepEverest: Accelerating Declarative Top-K Queries for Deep Neural Network Interpretation](http://vldb.org/pvldb/vol15/p98-he.pdf)' has been accepted at VLDB 2022. Congrats [Dong He](https://dongheuw.github.io/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Walter Cai](https://waltercai.github.io/), Magdalena Balazinska!
-
-- date: 2021-03-24
-  description: >
-    '[VSS: A Storage System for Video Analytics](https://db.cs.washington.edu/projects/visualworld/vss.pdf)' has been accepted to SIGMOD 2021. Congrats [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska, Alvin Cheung, Luis Ceze!
-
-- date: 2021-03-15
-  description: >
-    '[GeCo: Quality Counterfactual Explanations in Real Time](https://arxiv.org/abs/2101.01292)' has been accepted at VLDB 2021. Congrats [Maximilian Schleich](https://mjschleich.github.io/), Zixuan Geng, [Yihong Zhang](https://effect.systems), and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)!
-
-- date: 2021-02-12
-  description: >
-    '[TASM: A Tile-Based Storage Manager for Video Analytics](https://db.cs.washington.edu/projects/visualworld/tasm.pdf)' has been accepted to ICDE 2021. Congrats [Maureen Daum](https://homes.cs.washington.edu/~mdaum/), [Brandon Haynes](https://www.microsoft.com/en-us/research/people/brhaynes/), [Dong He](https://dongheuw.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska!
-
-- date: 2021-02-04
-  description: >
-    [On the Tractability of SHAP explanations](https://arxiv.org/pdf/2009.08634.pdf) has been accepted to AAAI 2021, winning a Distinguished Paper award! Congrats to the authors: [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/) (UCLA), [Anton Lykov](https://antonlykov.com), [Maximilian Schleich](https://mjschleich.github.io/), and [Dan Suciu](https://homes.cs.washington.edu/~suciu/).
-
-- date: 2019-05-19
-  description: >
-    'Visual Road: A Video Data Management Benchmark' has been accepted at SIGMOD 2019. Congrats [Brandon Haynes](https://brandonhaynes.github.io/), [Amrita Mazumdar](https://homes.cs.washington.edu/~amrita), Magdalena Balazinska, Luis Ceze, Alvin Cheung!
-
-- date: 2018-05-18
-  description: >
-    'LightDB: A DBMS for Virtual Reality' has been accepted at VLDB 2018. Congrats [Brandon Haynes](https://brandonhaynes.github.io/), Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung!
-
-- date: 2018-04-12
-  description: >
-    [Laurel Orr](https://homes.cs.washington.edu/~ljorr1/) received a honorable mention for the [NCWIT Collegiate Award](https://www.aspirations.org/). Congrats Laurel!
-
-- date: 2018-04-18
-  description: |
+- **2022-04-15:** |
     Two of [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/)'s papers got accepted!
     - 'SLAOrchestrator - Reducing the Cost of Performance SLAs in the Cloud' at USENIX ATC 2018
     - 'Learning State Representations for Query Optimization with Deep Reinforcement Learning' at the DEEM Workshop, SIGMOD 2018
 
-- date: 2018-03-05
-  description: |
-    Four papers from UWDB got accepted into SIGMOD 2018!
-    - 'HypDB: Detect, Explain And Resolve Bias in OLAP', [Babak Salimi](https://dblp.uni-trier.de/pers/hd/s/Salimi:Babak) and [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
-    - 'Automatically Leveraging MapReduce Frameworks for Data-Intensive Applications', [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) and [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/)
-    - 'Synthesizing Type-Detection Logic for Rich Semantic Data Types Using Open-source Code', [Cong Yan](https://homes.cs.washington.edu/~congy/)
-    - 'FASTER: A Concurrent Key-Value Store with In-Place Updates', [Guna Prasaad](http://gunaprsd.org)
-
-- date: 2017-07-19
-  description: >
-    Our automated solver for SQL, Cosette, has been [released](https://medium.com/@uwdb/introducing-cosette-527898504bd6)!
-
-- date: 2017-06-08
-  description: >
-    Congratulations to all of our [SIGMOD winners](https://news.cs.washington.edu/2017/06/07/allen-school-researchers-shine-brightly-at-sigmod/)!
-
-- date: 2017-05-19
-  description: >
+- **2022-02-15:**
     Watch [Dylan Hutchison](https://www.linkedin.com/in/dylanhutchison/)'s [recorded talk](https://youtu.be/d-ZY8lIs5Pc?t=2m45s) from the SIGMOD [BeyondMR workshop](https://sites.google.com/site/beyondmr2017/) on [LaraDB: A Minimalist Kernel for Linear and Relational Algbera](https://doi.org/10.1145/3070607.3070608)
 
-- date: 2017-05-18
-  description: |
-    Several SIGMOD 2017 Demonstation Awards!
-    [Shumo Chu](http://shumochu.com/), [Daniel Li](https://www.linkedin.com/in/daniel-li-49729a77/), and [Chenglong Wang](http://chenglongwang.org/) won the Best Demonstration Award for [Demonstration of the Cosette Automated SQL Prover](http://cosette.cs.washington.edu/);
-    [Maaz Ahmad](https://homes.cs.washington.edu/~maazsaf/) earned a Demonstration Award Honorable Mention for [Optimizing Data-Intensive Applications Automatically By Leveraging Parallel Data Processing Frameworks](http://casper.uwplse.org/);
-    Brandon Haynes and [Artem Minyaylov](https://www.linkedin.com/in/artem-minyaylov-44536998/) earned a Demonstration Award Honorable Mention for [VisualCloud Demonstration: A DBMS for Virtual Reality](http://db.cs.washington.edu/projects/lightdb/).
-
-- date: 2017-05-17
-  description: >
-    [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/) won second place at the [SIGMOD Student Reseach Competition](http://sigmod2017.org/student-research-competition/).
-
-- date: 2017-05-16
-  description: >
-    [Parmita Mehta](https://www.linkedin.com/in/parmita-mehta-30797a1/), [Tomer Kaftan](https://www.linkedin.com/in/tomerkaftan/), and many co-authors had their paper [Comparative Evaluation of Big-Data Systems on Scientific Image Analytics Workloads](https://arxiv.org/abs/1612.02485) accepted into VLDB.
-
-- date: 2017-04-21
-  description: >
-    [Jingjing Wang](https://homes.cs.washington.edu/~jwang/)'s paper on [Elastic Memory Management for Cloud Data Analytics]() is accepted to USENIX 2017
-
-- date: 2017-04-19
-  description: >
-    [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/) is among [six UW CSE faculty who won NSF CAREER awards](https://news.cs.washington.edu/2017/04/18/six-allen-school-faculty-members-win-nsf-career-awards/)
-
-- date: 2017-04-17
-  description: >
-    [Laurel Orr](https://homes.cs.washington.edu/~ljorr1/)'s paper on [Probabilistic Database Summarization for Interactive Data Exploration](https://arxiv.org/abs/1703.03856) is accepted to VLDB 2017
-
-- date: 2017-04-09
-  description: >
-    [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) received the [ACM SIGMOD Test of Time Award](https://news.cs.washington.edu/2017/04/27/allen-schools-magdalena-balazinska-wins-sigmod-test-of-time-award/) for the paper [Fault-Tolerance in the Borealis Distributed Stream Processing System](https://dl.acm.org/citation.cfm?id=1066160)
-
-- date: 2017-04-07
-  description: >
-    [Shrainik Jain](https://homes.cs.washington.edu/~shrainik/)'s paper [SQLShare: Results from a Multi-Year SQL-as-a-Service Experiment](https://uwescience.github.io/sqlshare/pdfs/sqlshare_shrainik.pdf) has been awarded as one of the most reproducible across several criteria from SIGMOD 2016
-
-# Descriptions that include Markdown need to be in quotes or in a literal/folded block (with '|' or '>')
-# (see https://learnxinyminutes.com/docs/yaml/)
 
