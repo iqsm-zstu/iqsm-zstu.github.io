@@ -19,8 +19,8 @@ author_profile: true
 
 ## Papers
 ### 2022
-- **Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers** 
-  Zhong Shen, Changsheng Song, Yufei Xue, Zebin Wu, Jiqing Wang, and Zhicheng Zhong
+- **Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers**<br> 
+  Zhong Shen, Changsheng Song, Yufei Xue, Zebin Wu, Jiqing Wang, and Zhicheng Zhong<br>
   _Phys. Rev. B 106, 094403_ – Published 2 September 2022
 - **Collisional dynamics of symmetric two-dimensional quantum droplets** 
   Yibo Liu, Lijun Mao, and Yunbo Zhang
