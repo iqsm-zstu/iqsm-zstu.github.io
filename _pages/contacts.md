@@ -11,8 +11,6 @@ redirect_from:
 
 <img src='/images/zstu_map.png'>
 
-<img src="/images/zstu_map.png" width="400">
-
 [在线地图](https://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
 
