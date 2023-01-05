@@ -4,7 +4,6 @@ collection: members
 type: "测试 course"
 permalink: /members/yunbozhang
 venue: "物理系, Department"
-date: 2023-01-01
 location: "浙江省杭州市, Country"
 ---
 
