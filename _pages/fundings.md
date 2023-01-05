@@ -11,11 +11,6 @@ redirect_from:
 
 国基项目
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-
 | 类型 | 主持人 | 名称 | 时间段 | 
 |:--------|:-------:|--------:|--------:|
 | 面上 | 张云波 | 一维量子多体系统的热力学与局域化研究  | 2021-2024 |
@@ -32,14 +27,3 @@ redirect_from:
 |:--------|:-------:|--------:|--------:|
 | 探索一般 | 宋昌盛 | 二维铁磁异质结界面电控磁性的量子计算研究  | 2021-2023 |
 | 探索青年 | xxx |    xxxxxx       | 2023-2025  |
-
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
