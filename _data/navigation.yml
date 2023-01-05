@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "最新动态"
-    url: /year-archive/
+    url: /news/ #/year-archive/
     
   - title: "成员"
     url: /members/
