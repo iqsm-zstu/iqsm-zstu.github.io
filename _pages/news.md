@@ -1,16 +1,17 @@
 ---
 layout: archive
 title: "news新闻"
+permalink: /news/
 author_profile: true
 id: "news"
 ---
 
 *Recent news*
 
-*2022-11-25:* '[Degree Sequence Bounds for Cardinality Estimation](https://arxiv.org/abs/2201.04166)' by Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai to appear at ICDT 2023; '[SafeBound: A Practical System for Generating Cardinality Bounds](https://arxiv.org/abs/2211.09864)' by Kyle Deeds, Dan Suciu, and Magda Balazinska to appear at SIGMOD 2023.
+- *2022-11-25:* 
+    '[Degree Sequence Bounds for Cardinality Estimation](https://arxiv.org/abs/2201.04166)' by Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai to appear at ICDT 2023; '[SafeBound: A Practical System for Generating Cardinality Bounds](https://arxiv.org/abs/2211.09864)' by Kyle Deeds, Dan Suciu, and Magda Balazinska to appear at SIGMOD 2023.
 
-- date: 2022-11-15
-  description: >
+- *2022-11-15:* 
     'Optimizing Tensor Programs on Flexible Storage' by Maximilian Schleich, Amir Shaikhha, and Dan Suciu to appear at SIGMOD 2023.
 
 - date: 2022-11-15
