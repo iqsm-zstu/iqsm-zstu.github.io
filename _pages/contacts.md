@@ -14,7 +14,7 @@ redirect_from:
 联系地址：
 ======
 <address>
-  2号大街928号<br /> 杭州市钱塘新区<br /> 浙江省<br /> 邮编：310018
+  量子物态调控研究所<br />浙江省杭州市钱塘新区2号大街928号理学院<br />邮编：310018
 </address>
 
 [在线地图](http://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
