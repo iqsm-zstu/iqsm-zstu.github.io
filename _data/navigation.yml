@@ -18,8 +18,8 @@ main:
   - title: "联系我们"
     url: /contacts/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
 
  # - title: "Teaching"
  #   url: /teaching/   
