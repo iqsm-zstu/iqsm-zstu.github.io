@@ -11,8 +11,7 @@ redirect_from:
 
 <img src='/images/zstu_map.png'>
 
-
-##联系地址：
+联系地址：
 ======
 <address>
   2号大街928号<br /> 杭州市钱塘新区<br /> 浙江省<br /> 邮编：310018
@@ -20,16 +19,6 @@ redirect_from:
 
 [在线地图](http://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
-##联系电话：
+联系电话：
 ======
-0571-863468
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+”0571-86843468“
