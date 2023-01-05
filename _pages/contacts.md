@@ -17,7 +17,7 @@ redirect_from:
 
 ##联系电话：
 ======
-0571-863468
+0571-863468<br/><img src='/images/zstu_map.png'>
 
 * Summer 2015: Research Assistant
   * Github University
