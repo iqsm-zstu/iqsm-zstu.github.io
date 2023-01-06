@@ -21,8 +21,14 @@ id: "news"
 - **2022-08-03:**
     美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.106.023302)在线发表[陈小龙](https://mike22lfc.github.io/members/01xiaolongchen)与合作者在超流体方面的研究成果'[Superfluidity of a Raman spin-orbit-coupled Bose gas at finite temperature](https://arxiv.org/abs/2203.02921)'。祝贺！    
     
+- **2022-05-31:**
+    理学院院长[张云波教授](https://mike22lfc.github.io/members/10yunbozhang)当选致公党浙江省第七届委员会委员，见[新闻](https://mp.weixin.qq.com/s/k0hY63N2yfL21s3LMj8VmQ)。祝贺！
+    
 - **2022-05-20:**
     美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.105.053717)在线发表[张云波教授](https://mike22lfc.github.io/members/10yunbozhang)等人在扩展Rabi模型的研究成果'[Floquet analysis of extended Rabi models based on high-frequency expansion](https://arxiv.org/abs/2202.09751)'。祝贺！
+    
+- **2022-05-31:**
+    [王顺利教授](https://mike22lfc.github.io/members/08shunliwang)荣获第五届“青年五四奖章”，见[新闻](https://mp.weixin.qq.com/s/oxpsScPkj_NLMUqE95F5rw)。祝贺！
     
 - **2022-02-22:**
     美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.105.022215)在线发表[张云波教授](https://mike22lfc.github.io/members/10yunbozhang)等人在非厄米准晶体中的研究成果'[Dynamical localization in non-Hermitian quasicrystals](https://arxiv.org/abs/2201.04028)'。祝贺！
