@@ -1,8 +1,8 @@
 ---
 title: "宋昌盛"
 collection: members
-type: "测试 course"
-permalink: /members/changshengsong
+type: "people"
+permalink: /members/02changshengsong
 venue: "物理系, Department"
 location: "City, Country"
 ---
