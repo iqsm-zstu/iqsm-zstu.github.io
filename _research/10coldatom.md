@@ -2,7 +2,7 @@
 title: "超冷量子气体"
 collection: research
 type: "research"
-permalink: /research/02coldatom
+permalink: /research/10coldatom
 location: "City, Country"
 ---
 
