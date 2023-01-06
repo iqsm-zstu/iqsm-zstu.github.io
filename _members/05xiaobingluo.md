@@ -7,7 +7,7 @@ venue: "物理系, Department"
 location: "浙江省杭州市, Country"
 ---
 
-<img src='/images/xiaobingluo.png' width='150' ><br>
+<img src='/images/people/xiaobingluo.png' width='150' ><br>
 博士，教授，硕士生导师，任江西省物理学会理事。
 
 研究方向：冷原子物理、非线性物理、光学。
