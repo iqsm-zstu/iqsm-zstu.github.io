@@ -13,7 +13,7 @@ id: "news"
     理学院院长[张云波教授](https://mike22lfc.github.io/members/10yunbozhang)当选全国近代物理研究会第八届理事会常务理事，见[新闻](https://mp.weixin.qq.com/s/AkdLesQd-UncHpiFIO-PuA)。祝贺！
 
 - **2022-08-23:**
-    美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.106.094403)在线发表[宋昌盛副教授](https://mike22lfc.github.io/members/04changshengsong)等人文章'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
+    美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.106.094403)在线发表[宋昌盛副教授](https://mike22lfc.github.io/members/04changshengsong)等人在二维斯格明子方面研究成果'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
 
 - **2022-08-19:**
     高等教育出版社英文学术期刊[_Front. Phys._](https://doi.org/10.1007/s11467-022-1192-z)在线发表[张云波教授](https://mike22lfc.github.io/members/10yunbozhang)和[陈小龙](https://mike22lfc.github.io/members/01xiaolongchen)等人关于二维玻色混合物量子液滴动力学的最新进展'[Collisional dynamics of symmetric two-dimensional quantum droplets](https://doi.org/10.1007/s11467-022-1192-z)'。祝贺！
