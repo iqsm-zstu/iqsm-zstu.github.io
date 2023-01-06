@@ -11,7 +11,7 @@ id: "news"
     '[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)' by Zhong Shen, [Changsheng Song](https://mike22lfc.github.io/members/04changshengsong), Yufei Xue, Zebin Wu, Jiqing Wang, Zhicheng Zhong to appear at [Phys. Rev. B](https://doi.org/10.1103/PhysRevB.106.094403).
 
 - **2022-08-23:**
-    [Phys. Rev. B](https://doi.org/10.1103/PhysRevB.106.094403)在线发表[宋昌盛副教授](https://mike22lfc.github.io/members/04changshengsong)等人文章'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
+    美国物理学会期刊[Phys. Rev. B](https://doi.org/10.1103/PhysRevB.106.094403)在线发表[宋昌盛副教授](https://mike22lfc.github.io/members/04changshengsong)等人文章'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
 
 - **2022-05-15:**
     [Leilani Battle](https://homes.cs.washington.edu/~leibatt/) is awarded the 2022 [IEEE TCDE Rising Star Award](http://tab.computer.org/tcde/tcdeawardsrecipients.html) for contributions to interactive data-intensive systems for exploratory data analysis.
