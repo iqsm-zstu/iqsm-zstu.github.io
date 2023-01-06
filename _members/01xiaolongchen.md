@@ -1,8 +1,8 @@
 ---
 title: "陈小龙"
 collection: members
-type: "测试 course"
-permalink: /members/xiaolongchen
+type: "people"
+permalink: /members/01xiaolongchen
 venue: "物理系, Department"
 location: "浙江省杭州市, Country"
 ---
