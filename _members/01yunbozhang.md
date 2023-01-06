@@ -1,8 +1,8 @@
 ---
 title: "张云波"
 collection: members
-type: "测试 course"
-permalink: /members/yunbozhang
+type: "people"
+permalink: /members/01yunbozhang
 venue: "物理系, Department"
 location: "浙江省杭州市, Country"
 ---
