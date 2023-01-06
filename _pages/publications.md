@@ -10,17 +10,17 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints
+## 预印本
 
 - Preprint title. Author 1, Author 2, **Author 3**. [[arxiv](https://arxiv.org)] 
 
-## Books
+## 专著
 
 - **Book Title**<br> 
   Author 1, Author 2, **Author 3**<br>
   _Press company (2022)_
   
-## Papers
+## 发表文章
 ### 2022
 
 - **Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers**<br> 
