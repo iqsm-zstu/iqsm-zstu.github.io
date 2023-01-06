@@ -2,7 +2,7 @@
 title: "自旋电子材料计算"
 collection: research
 type: "research"
-permalink: /research/spintronics
+permalink: /research/01spintronics
 location: "City, Country"
 ---
 
