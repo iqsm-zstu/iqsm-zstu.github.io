@@ -7,19 +7,19 @@ id: "news"
 ---
 
 
-- **2022-11-25:**
-    '[Degree Sequence Bounds for Cardinality Estimation](https://arxiv.org/abs/2201.04166)' by Kyle Deeds, Dan Suciu, Magda Balazinska, and Walter Cai to appear at ICDT 2023; '[SafeBound: A Practical System for Generating Cardinality Bounds](https://arxiv.org/abs/2211.09864)' by Kyle Deeds, Dan Suciu, and Magda Balazinska to appear at SIGMOD 2023.
+- **2022-08-23:**
+    '[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)' by Zhong Shen, [Changsheng Song](https://mike22lfc.github.io/members/04changshengsong), Yufei Xue, Zebin Wu, Jiqing Wang, Zhicheng Zhong to appear at [Phys. Rev. B](https://doi.org/10.1103/PhysRevB.106.094403).
 
-- **2022-09-15:**
-    '[Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)' has been accepted at NeurIPS 2022. Congrats [Jieyu Zhang](https://jieyuz2.github.io/), Cheng-Yu Hsieh, and Alex Ratner!
+- **2022-08-23:**
+    [Phys. Rev. B](https://doi.org/10.1103/PhysRevB.106.094403)在线发表[宋昌盛副教授](https://mike22lfc.github.io/members/04changshengsong)等人文章'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
 
-- **2022-04-15:**
+- **2022-05-15:**
     [Leilani Battle](https://homes.cs.washington.edu/~leibatt/) is awarded the 2022 [IEEE TCDE Rising Star Award](http://tab.computer.org/tcde/tcdeawardsrecipients.html) for contributions to interactive data-intensive systems for exploratory data analysis.
 
-- **2022-06-15:**
+- **2022-04-15:**
     '[Query Processing on Tensor Computation Runtimes](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)' has been accepted at VLDB 2022. Congrats to the authors: [Dong He](https://dongheuw.github.io/), Supun Nakandala, Dalitso Banda, Rathijit Sen, Karla Saur, Kwanghyun Park, Carlo Curino, Jesús Camacho-Rodríguez, Konstantinos Karanasos, and Matteo Interlandi!
 
-- **2022-04-15:** |
+- **2022-03-15:** |
     Two of [Jennifer Ortiz](https://homes.cs.washington.edu/~jortiz16/)'s papers got accepted!
     - 'SLAOrchestrator - Reducing the Cost of Performance SLAs in the Cloud' at USENIX ATC 2018
     - 'Learning State Representations for Query Optimization with Deep Reinforcement Learning' at the DEEM Workshop, SIGMOD 2018
