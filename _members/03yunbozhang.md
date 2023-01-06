@@ -2,7 +2,7 @@
 title: "张云波"
 collection: members
 type: "people"
-permalink: /members/01yunbozhang
+permalink: /members/03yunbozhang
 venue: "物理系, Department"
 location: "浙江省杭州市, Country"
 ---
