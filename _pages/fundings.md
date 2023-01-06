@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects and Fundings"
+title: "感谢下列基金项目对我们研究的大力支持："
 permalink: /fundings/
 author_profile: true
 redirect_from:
