@@ -9,7 +9,7 @@ author_profile: true
 
 <img src='/images/zstu_map.png' width='600' >
 
-<iframe src="/talkmap/map.html" height="600" width="800" style="border:none;"></iframe>
+<iframe src="/talkmap/map.html" height="400" width="800" style="border:none;"></iframe>
 
 [在线地图](https://ditu.amap.com/place/B0FFJVSKAG "浙理工地图")
 
