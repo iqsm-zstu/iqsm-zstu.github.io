@@ -1,5 +1,5 @@
 var addressPoints = [
-  #[
+  [
     "Beijing, CN",
     116.39213,
     39.90071
