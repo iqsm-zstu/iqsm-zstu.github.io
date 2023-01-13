@@ -1,5 +1,5 @@
 ---
-title: "成员 1"
+title: "教学目标（未使用）"
 collection: teaching
 type: "测试 course"
 permalink: /teaching/2014-spring-teaching-1
