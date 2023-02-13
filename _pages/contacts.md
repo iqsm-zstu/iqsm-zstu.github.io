@@ -19,7 +19,7 @@ author_profile: true
 </address>
 
 
-联系邮箱：
+联系邮箱：iqsm.zstu@gmail.com
 ======
 
 <address>
