@@ -11,9 +11,9 @@ title                    : "量子物态调控研究所 / 首页"
 title_separator          : "-"
 name                     : &name "量子物态调控研究所"
 description              : &description "量子物态调控研究所"
-url                      : https://mike22lfc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://iqsm-zstu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mike22lfc/mike22lfc.github.io"
+repository               : "iqsm-zstu/iqsm-zstu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "量子物态调控研究所，浙江理工大学"
   avatar           : "profile.png"
-  bio              : "Institute of Quantum State Regulation, ZSTU"
+  bio              : "Institute of Quantum State Manipulation, ZSTU"
   location         : "杭州市，浙江省"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "mike22lfc"
+  github           : # "iqsm-zstu"
   google_plus      :
   keybase          :
   instagram        :
