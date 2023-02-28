@@ -15,7 +15,7 @@ author_profile: true
 ## 发表文章
 ### 2023
 
-- **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>  
+- **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>
   Dushuo Feng, Zhong Shen, Yufei Xue, Zhihao Guan, Yunhu Xiao, and **Changsheng Song**<br>
   [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
   
@@ -29,6 +29,10 @@ author_profile: true
   
 ### 2022
 
+- **Relaxation dynamics in the driven-dissipative Su-Schrieffer-Heeger model**<br> 
+  C. M. Dai, **Yunbo Zhang**, and X. X. Yi<br>
+  [_Phys. Rev. A 106, 062208 (2022)_](https://doi.org/10.1103/PhysRevA.106.062208) 
+  
 - **Enhanced Curie temperature and skyrmion stability by strain in room temperature ferromagnetic semiconductor CrISe monolayer**<br> 
   Zhong Shen, Yufei Xue, Zebin Wu, and **Changsheng Song**<br>
   [_Appl. Phys. Lett. 121, 202402 (2022)_](https://doi.org/10.1063/5.0117597)
