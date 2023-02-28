@@ -10,17 +10,23 @@ author_profile: true
 
 {% include base_path %}
 
-## 预印本
 
-- Preprint title. Author 1, Author 2, **Author 3**. [[arxiv](https://arxiv.org)] 
-
-## 专著
-
-- **Book Title**<br> 
-  Author 1, Author 2, **Author 3**<br>
-  _Press company (2022)_
   
 ## 发表文章
+### 2023
+
+- **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>  
+  Dushuo Feng, Zhong Shen, Yufei Xue, Zhihao Guan, Yunhu Xiao, and **Changsheng Song**<br>
+  [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
+  
+- **Topological phase transition and skyrmions in a Janus MnSbBiSe2Te2 monolayer**<br> 
+  Zebin Wu, Yufei Xue, Zhong Shen, and **Changsheng Song**<br>
+  [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
+  
+- **Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers**<br> 
+  Zhong Shen, **Changsheng Song**, Yufei Xue, Zebin Wu, Jiqing Wang, and Zhicheng Zhong<br>
+  [_Phys. Rev. B 106, 094403 (2022)_](https://doi.org/10.1103/PhysRevB.106.094403)
+  
 ### 2022
 
 - **Enhanced Curie temperature and skyrmion stability by strain in room temperature ferromagnetic semiconductor CrISe monolayer**<br> 
@@ -55,4 +61,13 @@ author_profile: true
   Zebin Wu, Zhong Shen, Yufei Xue, and **Changsheng Song**<br>
   [_Phys. Rev. Materials 6, 014011 (2022)_](https://doi.org/10.1103/PhysRevMaterials.6.014011)
   
-### 2021
+
+## 预印本
+
+- Preprint title. Author 1, Author 2, **Author 3**. [[arxiv](https://arxiv.org)] 
+
+## 专著
+
+- **Book Title**<br> 
+  Author 1, Author 2, **Author 3**<br>
+  _Press company (2022)_
