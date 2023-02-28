@@ -21,7 +21,7 @@ author_profile: true
   
 - **Topological phase transition and skyrmions in a Janus MnSbBiSe2Te2 monolayer**<br> 
   Zebin Wu, Yufei Xue, Zhong Shen, and **Changsheng Song**<br>
-  [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
+  [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2CP03860A) **封面论文**
   
 - **Interference-induced surface superconductivity: Enhancement by tuning the Debye energy**<br> 
   Yunfei Bai, Yajiang Chen, M. D. Croitoru, A. A. Shanenko, **Xiaobing Luo**, and **Yunbo Zhang**<br>
