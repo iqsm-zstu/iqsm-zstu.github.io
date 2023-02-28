@@ -17,7 +17,7 @@ author_profile: true
 
 - **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>
   Dushuo Feng, Zhong Shen, Yufei Xue, Zhihao Guan, Yunhu Xiao, and **Changsheng Song**<br>
-  [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
+  [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文** $${\color{lightblue}封面文章}$$
   
 - **Topological phase transition and skyrmions in a Janus MnSbBiSe2Te2 monolayer**<br> 
   Zebin Wu, Yufei Xue, Zhong Shen, and **Changsheng Song**<br>
