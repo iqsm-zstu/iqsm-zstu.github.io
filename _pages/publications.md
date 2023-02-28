@@ -17,11 +17,11 @@ author_profile: true
 
 - **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>
   Dushuo Feng, Zhong Shen, Yufei Xue, Zhihao Guan, Yunhu Xiao, and **Changsheng Song**<br>
-  [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) $${\color{lightgreen}封面文章}$$
+  [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) <span style="color:blue">封面论文</span>
   
 - **Topological phase transition and skyrmions in a Janus MnSbBiSe2Te2 monolayer**<br> 
   Zebin Wu, Yufei Xue, Zhong Shen, and **Changsheng Song**<br>
-  [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2CP03860A) **封面论文**<span style="color:blue">封面论文 *blue* text</span>
+  [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2CP03860A) <span style="color:blue">封面论文</span>
   
 - **Interference-induced surface superconductivity: Enhancement by tuning the Debye energy**<br> 
   Yunfei Bai, Yajiang Chen, M. D. Croitoru, A. A. Shanenko, **Xiaobing Luo**, and **Yunbo Zhang**<br>
