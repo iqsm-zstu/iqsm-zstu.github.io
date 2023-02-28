@@ -47,7 +47,7 @@ id: "news"
     [王顺利教授](https://iqsm-zstu.github.io/members/08shunliwang)荣获第五届“青年五四奖章”，见[新闻](https://mp.weixin.qq.com/s/oxpsScPkj_NLMUqE95F5rw)。祝贺！
     
 - **2022-02-22:**
-    美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.105.022215)在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)等人在非厄米准晶体中的研究成果'[Dynamical localization in non-Hermitian quasicrystals](https://arxiv.org/abs/2201.04028)'。祝贺！
+    美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.105.022215)在线发表物理系戴传铭、[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)等人在非厄米准晶体中的研究成果'[Dynamical localization in non-Hermitian quasicrystals](https://arxiv.org/abs/2201.04028)'。祝贺！
 
 
 
