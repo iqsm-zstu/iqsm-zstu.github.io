@@ -23,9 +23,9 @@ author_profile: true
   Zebin Wu, Yufei Xue, Zhong Shen, and **Changsheng Song**<br>
   [_Phys. Chem. Chem. Phys. 25, 96 (2023)_](https://doi.org/10.1039/D2NR04740C) **封面论文**
   
-- **Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers**<br> 
-  Zhong Shen, **Changsheng Song**, Yufei Xue, Zebin Wu, Jiqing Wang, and Zhicheng Zhong<br>
-  [_Phys. Rev. B 106, 094403 (2022)_](https://doi.org/10.1103/PhysRevB.106.094403)
+- **Interference-induced surface superconductivity: Enhancement by tuning the Debye energy**<br> 
+  Yunfei Bai, Yajiang Chen, M. D. Croitoru, A. A. Shanenko, **Xiaobing Luo**, and **Yunbo Zhang**<br>
+  [_Phys. Rev. B 107, 024510 (2023)_](https://doi.org/10.1103/PhysRevB.107.024510)
   
 ### 2022
 
