@@ -6,6 +6,19 @@ author_profile: true
 id: "news"
 ---
 
+- **2023-01-30:**
+    美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.107.024510)在线发表[罗小兵教授](https://iqsm-zstu.github.io/members/05xiaobingluo)、[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在表面超导方面研究成果'[Interference-induced surface superconductivity: Enhancement by tuning the Debye energy
+](https://arxiv.org/abs/2301.12979)'。祝贺！
+    
+- **2022-12-15:**
+    美国物理学会(APS)期刊[_Phys. Rev. A_]([https://doi.org/10.1103/PhysRevA.106.023302](https://doi.org/10.1103/PhysRevA.106.062208))在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在耗散SSH模型的研究成果'[Relaxation dynamics in the driven-dissipative Su-Schrieffer-Heeger model](https://doi.org/10.1103/PhysRevA.106.062208)'。祝贺！ 
+    
+- **2022-12-13:**
+    英国皇家化学学会(RSC)期刊[_Nanoscale_](https://doi.org/10.1039/D2NR04740C)在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于双层反铁磁斯格明子的最新研究进展'[Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2](https://doi.org/10.1039/D2NR04740C)'。祝贺！
+    
+- **2022-11-18:**
+    英国皇家化学学会(RSC)期刊[_Phys. Chem. Chem. Phys._](https://doi.org/10.1039/D2CP03860A)在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于室温铁磁半导体中斯格明子的最新研究进展'[Topological phase transition and skyrmions in a Janus MnSbBiSe2Te2 monolayer](https://doi.org/10.1039/D2CP03860A)'。祝贺！
+    
 - **2022-11-15:**
     美国物理联合会(AIP)期刊[_Appl. Phys. Lett._](https://doi.org/10.1063/5.0117597)在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于室温铁磁半导体中斯格明子的最新研究进展'[Enhanced Curie temperature and skyrmion stability by strain in room temperature ferromagnetic semiconductor CrISe monolayer](https://arxiv.org/abs/2207.11418)'。祝贺！
 
