@@ -35,7 +35,7 @@ author_profile: true
   
 - **Spin-orbital-angular-momentum-coupled quantum gases**<br> 
   Shi-Guo Peng, Kaijun Jiang, **Xiao-Long Chen**, Ke-Ji Chen, Peng Zou, and  Lianyi He<br>
-  [_AAPPS Bulletin 32, 36 (2022)_](https://doi.org/10.1007/s43673-022-00069-w)
+  [_AAPPS Bulletin 32, 36 (2022)_](https://doi.org/10.1007/s43673-022-00069-w) <span style="color:blue">邀请综述</span>
   
 - **Enhanced Curie temperature and skyrmion stability by strain in room temperature ferromagnetic semiconductor CrISe monolayer**<br> 
   Zhong Shen, Yufei Xue, Zebin Wu, and **Changsheng Song**<br>
