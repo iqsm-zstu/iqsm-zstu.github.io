@@ -22,7 +22,9 @@ location: "浙江省杭州市, Country"
 主要成果
 ======
 近年来，主要从事半导体薄膜及器件的基础和应用研究。主持或结题国家自然科学基金、省部级项目和横向科技项目20余项，在国际学术杂志上发表SCI论文60余篇，获得国家发明专利授权30余项，作为主要成员获北京市自然科学二等奖(2021年)、中国商业联合会科学技术一等奖(2020年)、中国产学研合作创新成果二等奖(2019年)、浙江省教学成果二等奖(2019年)；曾获浙江理工大学第五届“青年五四奖章”、华鼎教育贡献奖、金华市首届“婺星回归”创业大赛二等奖，浙江省“大创杯”创业大赛二等奖(2018年)，指导学生获第七届中国国际“互联网+”大学生创新创业大赛银奖(2021年)，第十二届“挑战杯”中国大学生创业计划竞赛银奖(2020年)等国家级奖项4项。
+
 代表性论文
+======
 [1] Shunli Wang, Chao Wu, Fengmin Wu, Fabi Zhang, Aiping Liu, Nie Zhao, Daoyou Guo*. Flexible, transparent and self-powered deep ultraviolet photodetector based on Ag NWs/amorphous gallium oxide Schottky junction for wearable devices. Sensors and Actuators A, 2021, 330, 112870 (SCI, IF=4.291). 
 [2] Haizheng Hu, Chao Wu, Nie Zhao, Zhiyan Zhu, Peigang Li, Shunli Wang*,
 Weihua Tang, and Daoyou Guo. Epitaxial Growth and Solar-Blind Photoelectric
@@ -48,19 +50,25 @@ Characteristic of Ga2O3 Film on Various Oriented Sapphire Substrates by Plasma-E
 [21] Shunli Wang, Hui Xu, Liuqin Qian, Xi Jia, Junwei Wang, Yangyi Liu and Weihua Tang, CTAB-assisted synthesis and photocatalytic property of CuO hollow microspheres, Journal of Solid State Chemistry 182 (2009) 1088-1093.
 [22] Shunli Wang, Hui Xu, Liuqin Qian, Xi Jia, Junwei Wang, Yangyi Liu and Weihua Tang, CTAB-assisted synthesis and photocatalytic property of CuO hollow microspheres, Journal of Solid State Chemistry 182 (2009) 1088–1093.
 [23] Chao Wu, Daoyou Guo, Peigang Li, Shunli Wang,* Aiping Liua and Fengmin Wu, A study on the eﬀects of mixed organic cations on the structure and properties in lead halide perovskites, Phys. Chem. Chem. Phys., 2020, 22, 3105-3111. 
+
 主持科研项目情况
+======
 1.《多铁TbMn1-xFexO3晶体材料的制备与表征》国家自然科学基金项目（1/8）
 2.《氧化镓几种相结结构的构筑与应用研究》浙江省自然科学基金项目（1/7）
 3.《贵金属纳米胶体及其有序结构的小角X射线散射研究》浙江省公益性科技计划项目（1/5）
 4.《高性能纤维微孔缺陷结构的小角X射线散射研究》浙江省公益性科技计划项目（1/5）
+
 专利申请
+======
 [1] 常裕鑫, 王顺利, 陶江伟, 张丽滢, 郭道友. 基于氧化铜/氧化镓纳米柱阵列pn结的柔性紫外探测器及其制备方法(申请号：ZL202010299593.1)，授权，授权时间：2022.1.4。
 [2] 赵海林, 李小云, 陈凯, 樊寅翔, 陈露, 魏亚菊, 王顺利, 郭道友, 李培刚. 一种Cu2O/GaOOH纳米核壳pn结光电探测器及其制备方法(申请号：ZL201710961287.8)，授权，授权时间：2020.4.7。
 [3] 王顺利, 贾江鸣, 严博, 叶伟. 一种单片螺旋形离子聚合物金属复合材料线性驱动单元及其制备方法(申请号：ZL201711343321.1)，授权，授权时间：2020.1.3。
 [4] 郭道友, 陈凯, 樊寅翔, 魏亚菊, 吴超, 石浩泽, 王顺利, 李培刚. 一种氧化镓相结纳米柱阵列及其制备方法(申请号：ZL201711020720.4)，授权，授权时间：2020.6.2。
 [5] 王顺利, 马艳秀, 卢凯翔, 赵天丽, 邢志文, 钱松程. 一种基于氧化镓日盲探测器的紫外光通讯系统 (申请号：ZL202210434645.0)，公开，实质审查。
 
+
 联系方式
+======
 通讯地址：浙江省杭州下沙高教园区，浙江理工大学理学院物理系 
 邮    编：310018 
 电    话：0571-86843227, 18057145318
