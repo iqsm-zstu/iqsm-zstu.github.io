@@ -15,9 +15,12 @@ location: "浙江省杭州市, Country"
 浙江省物理学会X射线衍射专业委员会秘书长。
 
 研究领域和研究方向
+======
 1.	光电材料与器件
 2.	半导体薄膜及器件的产业化应用研究。
+
 主要成果
+======
 近年来，主要从事半导体薄膜及器件的基础和应用研究。主持或结题国家自然科学基金、省部级项目和横向科技项目20余项，在国际学术杂志上发表SCI论文60余篇，获得国家发明专利授权30余项，作为主要成员获北京市自然科学二等奖(2021年)、中国商业联合会科学技术一等奖(2020年)、中国产学研合作创新成果二等奖(2019年)、浙江省教学成果二等奖(2019年)；曾获浙江理工大学第五届“青年五四奖章”、华鼎教育贡献奖、金华市首届“婺星回归”创业大赛二等奖，浙江省“大创杯”创业大赛二等奖(2018年)，指导学生获第七届中国国际“互联网+”大学生创新创业大赛银奖(2021年)，第十二届“挑战杯”中国大学生创业计划竞赛银奖(2020年)等国家级奖项4项。
 代表性论文
 [1] Shunli Wang, Chao Wu, Fengmin Wu, Fabi Zhang, Aiping Liu, Nie Zhao, Daoyou Guo*. Flexible, transparent and self-powered deep ultraviolet photodetector based on Ag NWs/amorphous gallium oxide Schottky junction for wearable devices. Sensors and Actuators A, 2021, 330, 112870 (SCI, IF=4.291). 
