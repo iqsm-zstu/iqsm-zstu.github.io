@@ -6,6 +6,9 @@ author_profile: true
 id: "news"
 ---
 
+- **2023-03-08:**
+    美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.107.104302)在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在多体局域化动力学方面研究成果'[Nonthermal dynamics in a spin-21 lattice Schwinger model](https://arxiv.org/abs/2301.03006)'。祝贺！
+
 - **2023-01-30:**
     美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.107.024510)在线发表物理系陈亚江副教授、[罗小兵教授](https://iqsm-zstu.github.io/members/05xiaobingluo)、[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在表面超导方面研究成果'[Interference-induced surface superconductivity: Enhancement by tuning the Debye energy
 ](https://arxiv.org/abs/2301.12979)'。祝贺！
