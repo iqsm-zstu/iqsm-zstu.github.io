@@ -15,6 +15,10 @@ author_profile: true
 ## 发表文章
 ### 2023
 
+- **Nonthermal dynamics in a spin-21 lattice Schwinger model**<br> 
+  Chunping Gao, Zheng Tang, Fei Zhu, **Yunbo Zhang**, Han Pu , and Li Chen<br>
+  [_Phys. Rev. B 107, 104302 (2023)_](https://doi.org/10.1103/PhysRevB.107.104302)
+
 - **Strain-induced magnetic phase transition, magnetic anisotropy switching and bilayer antiferromagnetic skyrmions in van der Waals magnet CrTe2**<br>
   Dushuo Feng, Zhong Shen, Yufei Xue, Zhihao Guan, Yunhu Xiao, and **Changsheng Song**<br>
   [_Nanoscale 15, 1561 (2023)_](https://doi.org/10.1039/D2NR04740C) <span style="color:blue">封面论文</span>
