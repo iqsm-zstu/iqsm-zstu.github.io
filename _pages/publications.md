@@ -15,6 +15,10 @@ author_profile: true
 ## 发表文章
 ### 2023
 
+- **Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases**<br> 
+  Maolin Chang, Xiangguo Yin, Li Chen, and **Yunbo Zhang**<br>
+  [_Phys. Rev. A 107, 053312 (2023)_](https://doi.org/10.1103/PhysRevA.107.053312)
+  
 - **Nonthermal dynamics in a spin-21 lattice Schwinger model**<br> 
   Chunping Gao, Zheng Tang, Fei Zhu, **Yunbo Zhang**, Han Pu , and Li Chen<br>
   [_Phys. Rev. B 107, 104302 (2023)_](https://doi.org/10.1103/PhysRevB.107.104302)
