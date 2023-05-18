@@ -6,6 +6,9 @@ author_profile: true
 id: "news"
 ---
 
+- **2023-05-18:**
+    美国物理学会(APS)期刊[_Phys. Rev. A_](https://doi.org/10.1103/PhysRevA.107.053312)在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在一维吸引费米气体关联函数和极化子-分子渡越方面研究成果'[Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases]'。祝贺！
+    
 - **2023-03-08:**
     美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.107.104302)在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与国内外合作者在多体局域化动力学方面研究成果'[Nonthermal dynamics in a spin-21 lattice Schwinger model](https://arxiv.org/abs/2301.03006)'。祝贺！
 
