@@ -15,6 +15,10 @@ author_profile: true
 ## 发表文章
 ### 2023
 
+- **Thickness dependence of the critical temperature and magnetic coupling in multilayer Cr2Sn2Te6**<br> 
+  Yufei Xue, Zhong Shen, Zebin Wu, and **Changsheng Song**<br>
+  [_Phys. Rev. B 108, 064416 (2023)_](https://doi.org/10.1103/PhysRevB.108.064416)
+  
 - **Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases**<br> 
   Maolin Chang, Xiangguo Yin, Li Chen, and **Yunbo Zhang**<br>
   [_Phys. Rev. A 107, 053312 (2023)_](https://doi.org/10.1103/PhysRevA.107.053312)
