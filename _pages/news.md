@@ -6,6 +6,9 @@ author_profile: true
 id: "news"
 ---
 
+- **2023-08-23:**
+    美国物理学会(APS)期刊[_Phys. Rev. B_](https://doi.org/10.1103/PhysRevB.108.064416)在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人的最新研究成果'Thickness dependence of the critical temperature and magnetic coupling in multilayer Cr2Sn2Te6'。祝贺！
+  
 - **2023-05-18:**
     美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在一维吸引费米气体关联函数和极化子-分子渡越方面研究成果'[Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases](https://doi.org/10.1103/PhysRevA.107.053312)'。祝贺！
     
