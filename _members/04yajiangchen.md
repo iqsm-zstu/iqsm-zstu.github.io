@@ -8,7 +8,7 @@ location: "浙江省杭州市, Country"
 ---
 
 <img src='/images/people/yajiangchen' width='150' ><br>
-男，浙江理工大学物理系副教授，硕士生导师。主要研究方向为xxx等方面。
+男，浙江理工大学物理系副教授，硕士生导师。
 
 Heading 1
 ======
