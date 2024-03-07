@@ -13,13 +13,16 @@ id: "news"
     美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者关于各态历经相与弱各态历经相方面研究成果'[Coexistence of ergodic and weakly ergodic states in finite-height Wannier-Stark ladders](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.023314)'。祝贺！
     
 - **2023-10-17:**
-    美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表[陈亚江副教授]等人关于表面超导态电场调控机制的最新研究成果'[Tailoring of interference-induced surface superconductivity by an applied electric field](https://doi.org/10.1103/PhysRevB.108.134506)'。祝贺！
+    美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表陈亚江副教授等人关于表面超导态电场调控机制的最新研究成果'[Tailoring of interference-induced surface superconductivity by an applied electric field](https://doi.org/10.1103/PhysRevB.108.134506)'。祝贺！
 
 - **2023-09-18:**
     美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在量子液滴态方面研究成果'[Ground-state properties and Bogoliubov modes of a harmonically trapped one-dimensional quantum droplet](https://doi.org/10.1103/PhysRevA.108.033312)'。祝贺！
     
 - **2023-08-11:**
     美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于二维磁体中临界温度及磁耦合的最新研究成果'[Thickness dependence of the critical temperature and magnetic coupling in multilayer Cr2Sn2Te6](https://doi.org/10.1103/PhysRevB.108.064416)'。祝贺！
+  
+- **2023-08-11:**
+    美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表陈亚江副教授等人关于电场调控表面超导-绝缘相变的最新研究成果'[Surface superconductor-insulator transition induced by electric field](https://doi.org/10.1103/PhysRevB.108.054508)'。祝贺！
   
 - **2023-05-18:**
     美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在一维吸引费米气体关联函数和极化子-分子渡越方面研究成果'[Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases](https://doi.org/10.1103/PhysRevA.107.053312)'。祝贺！
