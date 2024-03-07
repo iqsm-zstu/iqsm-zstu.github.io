@@ -6,6 +6,18 @@ author_profile: true
 id: "news"
 ---
 
+- **2024-02-14:**
+    美国物理联合会(AIP)期刊[_Appl. Phys. Lett._](https://doi.org/10.1063/5.0117597)在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于双层VSe2磁体的结构相变及反铁磁斯格明子的最新研究进展'[In-plane strain-induced structural phase transition and interlayer antiferromagnetic skyrmions in 2H-VSe2 bilayer](https://doi.org/10.1063/5.0190515)'。祝贺！
+  
+- **2024-02-09:**
+    美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者关于各态历经相与弱各态历经相方面研究成果'[Coexistence of ergodic and weakly ergodic states in finite-height Wannier-Stark ladders](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.023314)'。祝贺！
+    
+- **2023-10-17:**
+    美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表[陈亚江副教授]等人关于表面超导态电场调控机制的最新研究成果'[Tailoring of interference-induced surface superconductivity by an applied electric field](https://doi.org/10.1103/PhysRevB.108.134506)'。祝贺！
+
+  - **2023-09-18:**
+    美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在量子液滴态方面研究成果'[Ground-state properties and Bogoliubov modes of a harmonically trapped one-dimensional quantum droplet](https://doi.org/10.1103/PhysRevA.108.033312)'。祝贺！
+    
 - **2023-08-11:**
     美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)等人关于二维磁体中临界温度及磁耦合的最新研究成果'[Thickness dependence of the critical temperature and magnetic coupling in multilayer Cr2Sn2Te6](https://doi.org/10.1103/PhysRevB.108.064416)'。祝贺！
   
