@@ -15,7 +15,7 @@ id: "news"
 - **2023-10-17:**
     美国物理学会(APS)期刊[_Phys. Rev. B_]在线发表[陈亚江副教授]等人关于表面超导态电场调控机制的最新研究成果'[Tailoring of interference-induced surface superconductivity by an applied electric field](https://doi.org/10.1103/PhysRevB.108.134506)'。祝贺！
 
-  - **2023-09-18:**
+- **2023-09-18:**
     美国物理学会(APS)期刊[_Phys. Rev. A_]在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang)与合作者在量子液滴态方面研究成果'[Ground-state properties and Bogoliubov modes of a harmonically trapped one-dimensional quantum droplet](https://doi.org/10.1103/PhysRevA.108.033312)'。祝贺！
     
 - **2023-08-11:**
