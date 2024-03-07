@@ -11,6 +11,19 @@ author_profile: true
 {% include base_path %}
 
 
+## 预印本
+
+- **Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems**<br> 
+  Liheng Lang, Qichen Lu, C. M. Dai, Xingbo Wei, Yanxia Liu, and **Yunbo Zhang**<br>
+  [_arXiv:2402.16244_](https://arxiv.org/abs/2402.16244)
+  
+- **Collective excitations in two-dimensional harmonically trapped quantum droplets**<br> 
+  Yifan Fei, Xucong Du, **Xiao-Long Chen**, and **Yunbo Zhang**<br>
+  [_arXiv:2402.15811_](https://arxiv.org/abs/2402.15811)
+  
+- **Hydrogen Doping Induced px±ipy Triplet Superconductivity in Quasi-One-Dimensional K2Cr3As3**<br> 
+  Ming Zhang, Chen Lu, **Yajiang Chen**, **Yunbo Zhang**, and Fan Yang<br>
+  [_arXiv:2311.10942_](https://arxiv.org/abs/2311.10942)
   
 ## 发表文章
 
@@ -105,9 +118,6 @@ author_profile: true
   [_Phys. Rev. Materials 6, 014011 (2022)_](https://doi.org/10.1103/PhysRevMaterials.6.014011)
   
 
-## 预印本
-
-- Preprint title. Author 1, Author 2, **Author 3**. [[arxiv](https://arxiv.org)] 
 
 ## 专著
 
