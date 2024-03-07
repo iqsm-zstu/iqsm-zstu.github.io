@@ -38,6 +38,10 @@ author_profile: true
   Yufei Xue, Zhong Shen, Zebin Wu, and **Changsheng Song**<br>
   [_Phys. Rev. B 108, 064416 (2023)_](https://doi.org/10.1103/PhysRevB.108.064416)
   
+- **Surface superconductor-insulator transition induced by electric field**<br> 
+  Liyu Yin, Yunfei Bai, Ming Zhang, A. A. Shanenko, and **Yajiang Chen**<br>
+  [_Phys. Rev. B 108, 054508 (2023)_](https://doi.org/10.1103/PhysRevB.108.054508)
+  
 - **Correlation functions and polaron-molecule crossover in one-dimensional attractive Fermi gases**<br> 
   Maolin Chang, Xiangguo Yin, Li Chen, and **Yunbo Zhang**<br>
   [_Phys. Rev. A 107, 053312 (2023)_](https://doi.org/10.1103/PhysRevA.107.053312)
