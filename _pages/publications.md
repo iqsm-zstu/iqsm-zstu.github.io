@@ -29,6 +29,10 @@ author_profile: true
 
 ### 2024
 
+- **Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning**<br> 
+  Dushuo Feng, Zhihao Guan, Xiaoping Wu, Yan Wu, and **Changsheng Song**<br>
+  [_Phys. Rev. Applied 21, 034009 (2024)_](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.034009)
+  
 - **In-plane strain-induced structural phase transition and interlayer antiferromagnetic skyrmions in 2H-VSe2 bilayer**<br> 
   Z. H. Guan, D. S. Feng, R. H. Xiao, X. P. Wu, and **C. S. Song**<br>
   [_Appl. Phys. Lett. 124, 072403 (2024)_](https://doi.org/10.1063/5.0190515)
