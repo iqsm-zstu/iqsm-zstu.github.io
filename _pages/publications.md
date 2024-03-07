@@ -17,21 +17,21 @@ author_profile: true
 ### 2024
 
 - **In-plane strain-induced structural phase transition and interlayer antiferromagnetic skyrmions in 2H-VSe2 bilayer**<br> 
-  Z. H. Guan, D. S. Feng, R. H. Xiao, X. P. Wu, and **C. S. Song***<br>
+  Z. H. Guan, D. S. Feng, R. H. Xiao, X. P. Wu, and **C. S. Song**<br>
   [_Appl. Phys. Lett. 124, 072403 (2024)_](https://doi.org/10.1063/5.0190515)
   
 - **Coexistence of ergodic and weakly ergodic states in finite-height Wannier-Stark ladders**<br> 
-  Xingbo Wei, Liangqing Wu, Kewei Feng, Tong Liu, and **Yunbo Zhang***<br>
+  Xingbo Wei, Liangqing Wu, Kewei Feng, Tong Liu, and **Yunbo Zhang**<br>
   [_Phys. Rev. A 109, 023314 (2024)_](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.023314)
   
 ### 2023
 
 - **Tailoring of interference-induced surface superconductivity by an applied electric field**<br> 
-  Yunfei Bai, Libo Zhang, Xiaobing Luo, A. A. Shanenko, and **Yajiang Chen***<br>
+  Yunfei Bai, Libo Zhang, Xiaobing Luo, A. A. Shanenko, and **Yajiang Chen**<br>
   [_Phys. Rev. B 108, 134506 (2023)_](https://doi.org/10.1103/PhysRevB.108.134506)
   
 - **Ground-state properties and Bogoliubov modes of a harmonically trapped one-dimensional quantum droplet**<br> 
-  Xucong Du, Yifan Fei, Xiao-Long Chen, and **Yunbo Zhang***<br>
+  Xucong Du, Yifan Fei, Xiao-Long Chen, and **Yunbo Zhang**<br>
   [_Phys. Rev. A 108, 033312 (2023)_](https://doi.org/10.1103/PhysRevA.108.033312)
   
 - **Thickness dependence of the critical temperature and magnetic coupling in multilayer Cr2Sn2Te6**<br> 
