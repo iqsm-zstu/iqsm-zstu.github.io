@@ -17,9 +17,7 @@ author_profile: true
   Liheng Lang, Qichen Lu, C. M. Dai, Xingbo Wei, Yanxia Liu, and **Yunbo Zhang**<br>
   [_arXiv:2402.16244_](https://arxiv.org/abs/2402.16244)
   
-- **Collective excitations in two-dimensional harmonically trapped quantum droplets**<br> 
-  Yifan Fei, Xucong Du, **Xiao-Long Chen**, and **Yunbo Zhang**<br>
-  [_arXiv:2402.15811_](https://arxiv.org/abs/2402.15811)
+
   
 - **Hydrogen Doping Induced px±ipy Triplet Superconductivity in Quasi-One-Dimensional K2Cr3As3**<br> 
   Ming Zhang, Chen Lu, **Yajiang Chen**, **Yunbo Zhang**, and Fan Yang<br>
@@ -29,6 +27,10 @@ author_profile: true
 
 ### 2024
 
+- **Collective excitations in two-dimensional harmonically trapped quantum droplets**<br> 
+  Yifan Fei, Xucong Du, **Xiao-Long Chen**, and **Yunbo Zhang**<br>
+  [_Phys. Rev. A 109, 053309_](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.053309)
+  
 - **Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning**<br> 
   Dushuo Feng, Zhihao Guan, Xiaoping Wu, Yan Wu, and **Changsheng Song**<br>
   [_Phys. Rev. Applied 21, 034009 (2024)_](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.034009)
