@@ -18,7 +18,6 @@ author_profile: true
   [_arXiv:2402.16244_](https://arxiv.org/abs/2402.16244)
   
 
-  
 - **Hydrogen Doping Induced px±ipy Triplet Superconductivity in Quasi-One-Dimensional K2Cr3As3**<br> 
   Ming Zhang, Chen Lu, **Yajiang Chen**, **Yunbo Zhang**, and Fan Yang<br>
   [_arXiv:2311.10942_](https://arxiv.org/abs/2311.10942)
@@ -29,7 +28,7 @@ author_profile: true
 
 - **Collective excitations in two-dimensional harmonically trapped quantum droplets**<br> 
   Yifan Fei, Xucong Du, **Xiao-Long Chen**, and **Yunbo Zhang**<br>
-  [_Phys. Rev. A 109, 053309_](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.053309)
+  [_Phys. Rev. A 109, 053309 (2024)_](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.053309)
   
 - **Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning**<br> 
   Dushuo Feng, Zhihao Guan, Xiaoping Wu, Yan Wu, and **Changsheng Song**<br>
