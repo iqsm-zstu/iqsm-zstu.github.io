@@ -6,6 +6,9 @@ author_profile: true
 id: "news"
 ---
 
+- **2024-05-13:**
+    美国物理学会(APS)期刊《**_Phys. Rev. A_**》在线发表[张云波教授](https://iqsm-zstu.github.io/members/10yunbozhang),陈小龙特聘副教授与合作者在二维量子液滴态方面研究成果'[Collective excitations in two-dimensional harmonically trapped quantum droplets](https://doi.org/10.1103/PhysRevA.109.053309)'。祝贺！
+  
 - **2024-03-06:**
     美国物理学会(APS)期刊《**_Phys. Rev. Applied_**》在线发表[宋昌盛副教授](https://iqsm-zstu.github.io/members/04changshengsong)与合作者关于机器学习助力斯格明子纹理分类和哈密顿参数提取方面研究成果'[Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning
 ](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.034009)'。祝贺！
