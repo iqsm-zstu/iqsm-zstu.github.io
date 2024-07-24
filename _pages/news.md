@@ -7,7 +7,7 @@ id: "news"
 ---
 
 - **2024-05-13:**
-    美国物理学会(APS)期刊《**_Phys. Rev. A_**》在线发表陈小龙特聘副教授,张云波教授与合作者在二维量子液滴态方面研究成果'[Collective excitations in two-dimensional harmonically trapped quantum droplets](https://doi.org/10.1103/PhysRevA.109.053309)'。祝贺！
+    美国物理学会(APS)期刊《**_Phys. Rev. A_**》在线发表陈小龙特聘副教授、张云波教授与合作者在二维量子液滴态方面研究成果'[Collective excitations in two-dimensional harmonically trapped quantum droplets](https://doi.org/10.1103/PhysRevA.109.053309)'。祝贺！
   
 - **2024-03-06:**
     美国物理学会(APS)期刊《**_Phys. Rev. Applied_**》在线发表宋昌盛副教授与合作者关于机器学习助力斯格明子纹理分类和哈密顿参数提取方面研究成果'[Classification of skyrmionic textures and extraction of Hamiltonian parameters via machine learning
@@ -63,7 +63,7 @@ id: "news"
     美国物理学会(APS)期刊《**_Phys. Rev. B_**》在线发表宋昌盛副教授等人在二维斯格明子方面研究成果'[Strain-tunable Dzyaloshinskii-Moriya interaction and skyrmions in two-dimensional Janus Cr2X3Y3 (X, Y = Cl, Br, I, X≠Y) trihalide monolayers](https://arxiv.org/abs/2109.00723)'。祝贺！
 
 - **2022-08-19:**
-    高等教育出版社英文学术期刊《**_Front. Phys._**》在线发表张云波教授和陈小龙特聘副教授等人关于二维玻色混合物量子液滴动力学的最新进展'[Collisional dynamics of symmetric two-dimensional quantum droplets](https://doi.org/10.1007/s11467-022-1192-z)'。祝贺！
+    高等教育出版社英文学术期刊《**_Front. Phys._**》在线发表张云波教授、陈小龙特聘副教授等人关于二维玻色混合物量子液滴动力学的最新进展'[Collisional dynamics of symmetric two-dimensional quantum droplets](https://doi.org/10.1007/s11467-022-1192-z)'。祝贺！
     
 - **2022-08-03:**
     美国物理学会(APS)期刊《**_Phys. Rev. A_**》在线发表陈小龙特聘副教授与合作者在超流体方面的研究成果'[Superfluidity of a Raman spin-orbit-coupled Bose gas at finite temperature](https://arxiv.org/abs/2203.02921)'。祝贺！    
