@@ -6,6 +6,17 @@ author_profile: true
 id: "news"
 ---
 
+
+- **2024-09-27:**
+    美国物理学会(APS)期刊《**_Phys. Rev. B_**》在线发表张云波教授与合作者关于铬基非常规超导体方面研究成果'[Hydrogen doping induced 𝑝𝑥±𝑖⁢𝑝𝑦 triplet superconductivity in quasi-one-dimensional K2⁢Cr3⁢As3](https://doi.org/10.1103/PhysRevB.110.094519)'。祝贺！
+  
+- **2024-08-22:**
+    美国物理学会(APS)期刊《**_Phys. Rev. E_**》在线发表张云波教授与合作者在可积系统方面研究成果'[Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems](https://doi.org/10.1103/PhysRevE.110.024129)'。祝贺！
+
+- **2024-08-21:**
+    美国物理学会(APS)期刊《**_Phys. Rev. Research_**》在线发表陈小龙特聘副教授、陈爱喜教授与合作者在自旋轨道角动量耦合少体方面研究成果'[Two atoms in a harmonic trap with spin-orbital-angular-momentum coupling
+](https://doi.org/10.1103/PhysRevResearch.6.033200)'。祝贺！
+
 - **2024-05-13:**
     美国物理学会(APS)期刊《**_Phys. Rev. A_**》在线发表陈小龙特聘副教授、张云波教授与合作者在二维量子液滴态方面研究成果'[Collective excitations in two-dimensional harmonically trapped quantum droplets](https://doi.org/10.1103/PhysRevA.109.053309)'。祝贺！
   
