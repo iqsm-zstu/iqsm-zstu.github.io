@@ -13,18 +13,25 @@ author_profile: true
 
 ## 预印本
 
-- **Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems**<br> 
-  Liheng Lang, Qichen Lu, C. M. Dai, Xingbo Wei, Yanxia Liu, and **Yunbo Zhang**<br>
-  [_arXiv:2402.16244_](https://arxiv.org/abs/2402.16244)
-  
 
-- **Hydrogen Doping Induced px±ipy Triplet Superconductivity in Quasi-One-Dimensional K2Cr3As3**<br> 
-  Ming Zhang, Chen Lu, **Yajiang Chen**, **Yunbo Zhang**, and Fan Yang<br>
-  [_arXiv:2311.10942_](https://arxiv.org/abs/2311.10942)
+
   
 ## 发表文章
 
 ### 2024
+
+
+- **Hydrogen Doping Induced px±ipy Triplet Superconductivity in Quasi-One-Dimensional K2Cr3As3**<br> 
+  Ming Zhang, Chen Lu, **Yajiang Chen**, **Yunbo Zhang**, and Fan Yang<br>
+  [_Phys. Rev. B, 110, 094519 (2024)_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.094519?ft=1)
+
+- **Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems**<br> 
+  Liheng Lang, Qichen Lu, C. M. Dai, Xingbo Wei, Yanxia Liu, and **Yunbo Zhang**<br>
+  [_Phys. Rev. E 110, 024129 (2024)_](https://link.aps.org/doi/10.1103/PhysRevE.110.024129)
+
+- **Two atoms in a harmonic trap with spin-orbital-angular-momentum coupling**<br> 
+  **Xiao-Long Chen**, **Aixi Chen**, and Shi-GUo Peng<br>
+  [_Phys. Rev. Research 6, 033200 (2024)_](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033200)
 
 - **Collective excitations in two-dimensional harmonically trapped quantum droplets**<br> 
   Yifan Fei, Xucong Du, **Xiao-Long Chen**, and **Yunbo Zhang**<br>
